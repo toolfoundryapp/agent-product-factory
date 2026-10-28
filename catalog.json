@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "freelance-rate-calculator",
+    "title": "Freelance Rate Calculator",
+    "category": "Business",
+    "desc": "Estimate a sustainable hourly rate using expenses, tax reserve, target earnings and billable hours.",
+    "price": "Free",
+    "kind": "calculator"
+  },
+  {
+    "slug": "small-business-cashflow",
+    "title": "Small Business Cashflow Kit",
+    "category": "Finance",
+    "desc": "A 12-month editable cashflow CSV and practical instructions.",
+    "price": "Free",
+    "kind": "csv"
+  },
+  {
+    "slug": "project-quote-template",
+    "title": "Project Quotation Kit",
+    "category": "Operations",
+    "desc": "Editable quote spreadsheet with quantities, rates, VAT and totals.",
+    "price": "Free",
+    "kind": "csv"
+  }
+]
